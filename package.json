@@ -1,0 +1,13 @@
+{
+  "name": "vue-press-and-long-press",
+  "version": "1.0.0",
+  "description": "vue press and longpress",
+  "main": "pressAndLongPress.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+  }
+}
