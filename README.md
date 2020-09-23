@@ -1,5 +1,5 @@
 # vue Press and longPress
-*在vue中区分点击和长按事件的自定义指令插件*
+在vue中区分点击和长按事件的自定义指令插件
 
 * 支持PC、移动端
 * 区分点击和长按事件
@@ -8,7 +8,10 @@
 # Example
 main.js:
 ```javascript
-import './touch.js'
+import Vue from 'vue'
+import pressAndLongPress from 'vue-press-and-long-press'
+...
+pressAndLongPress(Vue)
 ```
 
 sample.vue:
