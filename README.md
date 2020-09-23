@@ -6,12 +6,12 @@
 * 使用方便
 
 # Example
-## main.js:
+main.js:
 ```javascript
 import './touch.js'
 ```
 
-## sample.vue:
+sample.vue:
 ```vue
 <template>
     ...
