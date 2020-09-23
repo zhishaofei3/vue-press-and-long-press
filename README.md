@@ -1,17 +1,17 @@
-##vue Press and longPress
-在vue中区分点击和长按事件的自定义指令插件
+# vue Press and longPress
+*在vue中区分点击和长按事件的自定义指令插件*
 
 * 支持PC、移动端
 * 区分点击和长按事件
 * 使用方便
 
-##Example
-main.js:
+# Example
+## main.js:
 ```javascript
 import './touch.js'
 ```
 
-sample.vue:
+## sample.vue:
 ```vue
 <template>
     ...
